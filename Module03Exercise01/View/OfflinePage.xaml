@@ -31,7 +31,8 @@
                     FontFamily="{DynamicResource PrimaryFontFamily}"
                     CornerRadius="5"
                     Padding="15"
-                    Margin="0,20,0,0" />
+                    Margin="0,20,0,0" 
+                    Clicked="OnRetryButtonClicked"/>
 
             <Label Text="OR"
                    FontFamily="{DynamicResource PrimaryFontFamily}"
