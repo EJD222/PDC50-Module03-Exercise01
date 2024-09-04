@@ -12,7 +12,7 @@
 - [LoginPage.xaml](Module03Exercise01/View/LoginPage.xaml)
 - [LoginPage.xaml.cs](Module03Exercise01/View/LoginPage.xaml.cs)
 
-## Offline Page (Online)
+## Offline Page (Offline)
 ### Output Screenshot
 <p align="center">
     <img src="Screenshots/Offline.png" alt="Offline" width="270" height="585">
