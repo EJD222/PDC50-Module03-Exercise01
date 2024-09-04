@@ -7,21 +7,21 @@
 
 ## Employee View App with Platform-Specific Configuration and Application Lifecycle Management
 ### Source Code
-- [LoginPage.xaml](Module03Exercise01/View/LoginPage.xaml)
-- [LoginPage.xaml.cs](Module03Exercise01/View/LoginPage.xaml.cs)
 - [OfflinePage.xaml](Module03Exercise01/View/OfflinePage.xaml)
 - [OfflinePage.xaml.cs](Module03Exercise01/View/OfflinePage.xaml.cs)
-
-## Login Page (Online)
-### Output Screenshot
-<p align="center">
-    <img src="Screenshots/Online.png" alt="Online" width="270" height="585">
-</p>
+- [LoginPage.xaml](Module03Exercise01/View/LoginPage.xaml)
+- [LoginPage.xaml.cs](Module03Exercise01/View/LoginPage.xaml.cs)
 
 ## Offline Page (Online)
 ### Output Screenshot
 <p align="center">
     <img src="Screenshots/Offline.png" alt="Offline" width="270" height="585">
+</p>
+
+## Login Page (Online)
+### Output Screenshot
+<p align="center">
+    <img src="Screenshots/Online.png" alt="Online" width="270" height="585">
 </p>
 
 ## Employees Page
