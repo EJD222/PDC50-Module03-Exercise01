@@ -33,8 +33,8 @@
 
 ## Employees Page
 ### Output Screenshots
+- This page will be displayed after clicking the Login button on the Login page.
 <p align="center">
     <img src="Screenshots/Employees-Page-1.png" alt="EmployeePage-1" width="270" height="585">
     <img src="Screenshots/Employees-Page-2.png" alt="EmployeePage-2" width="270" height="585">
 </p>
-- This is the output displayed after clicking the Login button on the Login page.
