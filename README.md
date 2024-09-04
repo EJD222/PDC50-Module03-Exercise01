@@ -18,6 +18,13 @@
     <img src="Screenshots/Offline.png" alt="Offline" width="270" height="585">
 </p>
 
+## Offline Page (Retry and Exit)
+### Output Screenshot
+<p align="center">
+    <img src="Screenshots/Retry.png" alt="Retry" width="270" height="585">
+    <img src="Screenshots/Exit.png" alt="Exit" width="270" height="585">
+</p>
+
 ## Login Page (Online)
 ### Output Screenshot
 <p align="center">
@@ -30,3 +37,4 @@
     <img src="Screenshots/Employees-Page-1.png" alt="EmployeePage-1" width="270" height="585">
     <img src="Screenshots/Employees-Page-2.png" alt="EmployeePage-2" width="270" height="585">
 </p>
+- This is the output displayed after clicking the Login button on the Login page.
